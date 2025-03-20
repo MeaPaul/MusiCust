@@ -6,7 +6,8 @@ import javafx.scene.control.ProgressIndicator;
 import javafx.scene.control.Slider;
 
 /**
- *
+ * Gère le son des intruments
+ * et du programme
  * @author Paul E77
  * @version 1.0
  */

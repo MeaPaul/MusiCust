@@ -11,7 +11,8 @@ import javafx.scene.paint.Stop;
 import javafx.scene.shape.Rectangle;
 
 /**
- *
+ * Gère les bouttons du clavier de l'ordinateur
+ * pour jouer de la musique
  * @author Paul E77
  * @version 1.0
  */

@@ -10,7 +10,7 @@ import javafx.scene.transform.Rotate;
 import javafx.util.Duration;
 
 /**
- *
+ * Gère les effets du metronome 
  * @author Paul E77
  * @version 1.0
  */

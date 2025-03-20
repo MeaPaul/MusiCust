@@ -9,7 +9,8 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 
 /**
- *
+ * Gère les touche du clavier sous leurs fronts
+ * (la couleur, les effets, le font etc.)
  * @author Paul E77
  * @version 1.0
  */

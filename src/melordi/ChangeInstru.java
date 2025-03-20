@@ -4,13 +4,13 @@ import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 import javafx.scene.Parent;
 import javafx.scene.control.RadioButton;
+import javafx.scene.control.ToggleGroup;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.GridPane;
-import javafx.scene.control.ToggleGroup;
 
 /**
- *
+ * Gère le changement des intruments musicaux
  * @author Paul E77
  * @version 1.0
  */

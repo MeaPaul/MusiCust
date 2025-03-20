@@ -1,14 +1,16 @@
 package melordi;
 
 import javafx.application.Application;
-import javafx.scene.image.Image;
 import javafx.scene.Group;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 /**
- *
+ * Cette classe représente le programme principale du projet,
+ * il fait appel à toute les autres classes, et les autres méthodes
+ * et en fin permet l'exécution du projet
  * @author Paul E77
  * @version 1.0
  */
