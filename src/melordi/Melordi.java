@@ -10,6 +10,7 @@ import javafx.stage.Stage;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 public class Melordi extends Application {
     

@@ -1,7 +1,6 @@
 package melordi;
 
 import java.util.Arrays;
-import javafx.event.EventHandler;
 import javafx.scene.Parent;
 import javafx.scene.effect.Reflection;
 import javafx.scene.input.KeyEvent;
@@ -14,6 +13,7 @@ import javafx.scene.shape.Rectangle;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 public class Clavier extends Parent{
     

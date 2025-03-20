@@ -12,6 +12,7 @@ import javafx.scene.text.Text;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 public class Touche extends Parent{
     

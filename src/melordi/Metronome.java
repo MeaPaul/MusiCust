@@ -12,6 +12,7 @@ import javafx.util.Duration;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 public class Metronome extends Parent{
 

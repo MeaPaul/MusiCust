@@ -8,6 +8,7 @@ import javafx.scene.control.Slider;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 public class Son extends Parent{
     //Les datas

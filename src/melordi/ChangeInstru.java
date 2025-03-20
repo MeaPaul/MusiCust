@@ -12,6 +12,7 @@ import javafx.scene.control.ToggleGroup;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 public class ChangeInstru extends Parent{
     //Les bouttons radio

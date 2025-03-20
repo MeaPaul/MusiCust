@@ -3,6 +3,7 @@ package melordi;
 /**
  *
  * @author Paul E77
+ * @version 1.0
  */
 import java.util.logging.Level;
 import java.util.logging.Logger;
