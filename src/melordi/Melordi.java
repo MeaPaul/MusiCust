@@ -16,11 +16,11 @@ public class Melordi extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("MusiCust");
+        primaryStage.setTitle("MusiCust"); // Le titre du programme
         primaryStage.setResizable(false);
         primaryStage.centerOnScreen();
         primaryStage.setIconified(true);
-        primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("images/icon.png")));
+        primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("images/icon.png"))); // L'icone du programme
         
         Group root = new Group();
         Scene scene = new Scene(root, 500, 500, Color.WHITE);
@@ -47,6 +47,7 @@ public class Melordi extends Application {
     }
 
     /**
+     * Le point d'entrer du programme
      * @param args the command line arguments
      */
     public static void main(String[] args) {

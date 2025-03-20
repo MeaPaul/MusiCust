@@ -33,6 +33,10 @@ Dans le corps de votre page (entre les balises <body> et </body>) :
 * JavaFx 2.0 ou + : Vous devez installer JavaFx 2.0 ou plus sur votre machine,
 * L'extension Java dans les navigateurs : les navigateurs récents ne supporte pas java, essayer d'installer l'extension ou les extensions pour qu'ils exécutent le programme sur le web.
 
+## Captures
+![Capture d’écran 2025-03-20 232201.png](Capture%20d%E2%80%99%C3%A9cran%202025-03-20%20232201.png)
+![Capture d’écran 2025-03-20 232403.png](Capture%20d%E2%80%99%C3%A9cran%202025-03-20%20232403.png)
+
 Vous pouvez customiser le programme selon vos goûts et plus...
 
 
